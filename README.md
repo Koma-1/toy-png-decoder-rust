@@ -1,6 +1,6 @@
-# Toy PND Decoder (Rust)
+# Toy PNG Decoder (Rust)
 
-学習目的のPNDデコーダー
+学習目的のPNGデコーダー
 
 ## 使用例
 
